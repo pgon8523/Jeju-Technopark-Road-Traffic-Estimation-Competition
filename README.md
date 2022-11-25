@@ -2,6 +2,7 @@
 
 The competition is opend by Jeju Island and Jeju technopark on Dacon platform
 URL: https://dacon.io/competitions/official/235985/overview/description
+TABLUE LINK: https://public.tableau.com/app/profile/park.geon3430/viz/_16654136341890/1_1
 
 Result:
 Public: 7/1398 </br>
