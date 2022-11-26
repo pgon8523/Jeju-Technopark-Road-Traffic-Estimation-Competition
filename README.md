@@ -1,6 +1,6 @@
 ## Jeju-Technopark-Road-Traffic-Estimation-Competition
 
-The competition is opened by Jeju Technopark on Dacon platform
+This competition is opened by Jeju Technopark on Dacon platform
 URL: https://dacon.io/competitions/official/235985/overview/description </br></br>
 TABLUE LINK: https://public.tableau.com/app/profile/park.geon3430/viz/_16654136341890/1_1
 
